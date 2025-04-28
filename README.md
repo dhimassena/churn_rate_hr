@@ -78,7 +78,7 @@ Proyek ini berhasil menjawab beberapa pertanyaan bisnis seputar masalah attritio
 5. Bagaimana perbandingan karyawan attrition laki-laki dan perempuan?
    - Perbandingan antara karyawan attrition laki-laki dan perempuan terjadi lebih banyak pada karyawan laki-laki. Yakni dengan jumlah attrition laki-laki **108** orang berbanding **71** orang pada karyawan perempuan.
 6. Apakah ada cara untuk mendeteksi karyawan yang akan melakukan attrition?
-   - Terdapat cara mendeteksi hal tersebut adalah dengan melakukan prediksi dengan menggunakan model machine learning dan membuat visualisasi dashboard karyawan yang langsung dapat dipantau oleh HR Jaya Jaya Maju. Dimana dalam melakukan prediksi, model machine learning yang dikembangkan memiliki akurasi tertinggi sebesar **87%** dengan menggunakan alogritma Random Forest.
+   - Terdapat cara mendeteksi hal tersebut adalah dengan melakukan prediksi dengan menggunakan model machine learning dan membuat visualisasi dashboard karyawan yang langsung dapat dipantau oleh HR Jaya Jaya Maju. Dimana dalam melakukan prediksi, model machine learning yang dikembangkan memiliki akurasi tertinggi sebesar **87%** dengan menggunakan algoritma Random Forest.
 
 ### Rekomendasi Action Items untuk Perusahaan
 Berikut ini beberapa aksi / langkah yang dapat diambil Perusahaan Jaya Jaya Maju untuk menurunkan tingkat attrition yang terjadi.
